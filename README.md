@@ -239,3 +239,6 @@ This repository serves as the official landing page for Yu-Gi-Oh! Master Duel. T
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Yu-Gi-Oh! Master Duel today!**
+
+---
+**Last updated:** 2026-09-11 21:34:26 UTC
